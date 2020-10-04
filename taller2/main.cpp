@@ -1,3 +1,4 @@
+//INTEGRANTES: ALFREDO GARCES ULLOA, DANIEL HERNANDEZ CALFUQUEO, FRANCISCO PINOCHET MORALES
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
